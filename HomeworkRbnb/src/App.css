@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+}
+
+
+
+.airbnbCard {
+padding: 1em ;
+}
+.rbnbImg {
+  width: 3in;
+  height: 3in;
+  border-radius: 1em;
+}
+.airbnbCard p {
+  margin: 0;
+}
